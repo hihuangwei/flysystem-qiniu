@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/flysystem-qiniu",
+    "name": "hihuangwei/flysystem-qiniu",
     "description": "Flysystem adapter for the Qiniu storage.",
     "require": {
         "php": ">=7.2",
